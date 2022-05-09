@@ -1,2 +1,2 @@
 FROM fedora:latest
-RUN echo "Matjas is stom!!!!"
+RUN echo "Dit is mijn test"
