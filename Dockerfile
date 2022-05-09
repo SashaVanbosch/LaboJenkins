@@ -1,2 +1,2 @@
 FROM fedora:latest
-RUN echo "Dit is mijn test"
+RUN echo "Dit is mijn test123"
